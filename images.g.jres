@@ -144,11 +144,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "icon-book"
     },
-    "J(iuG#_X7y0^|=U??F9D": {
-        "data": "hwQJAAsAAACtiIiIqA0AAIqIFoiICgAAiGhRiIELAACIFlgYhgsAAIiBWGWICwAAiIhYhogLAACKiIiIiAoAAK3OzMyuDQAA8P////8PAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "weapon-book"
-    },
     "image31": {
         "data": "hwQKAAoAAAC7u7u7uwAAANvd3d3NAAAA210V3c0AAADb1W3WzQAAANvRl8jNAAAA29GG+M0AAADb1c3fzQAAANtdFd3NAAAA293d3c0AAADLzMzMzAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -278,6 +273,11 @@
         "data": "hwQQABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "hero-shadow"
+    },
+    "J(iuG#_X7y0^|=U??F9D": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAIAAAAAAAAAJAIABAAAAABAJUIEAAAAANBVRQAAAAAAVFUEAAAAAEBVVQIAAAAARERUJAAAAAAAAEBEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "weapon-book"
     },
     "anim1": {
         "namespace": "myAnimations",
